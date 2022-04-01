@@ -21,4 +21,4 @@ There will be *more* to this website soon.
 - Impose political ideas on me.
 - Violate other community guidelines of GitHub or laws of your country.
 
-Now tht you've acknowledged my rules, you may proceed and browse my website as you please.
+Now that you've acknowledged my rules, you may proceed and browse my website as you please.

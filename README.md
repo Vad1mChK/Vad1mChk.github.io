@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to the place of [Vad1mChK](https://github.com/Vad1mchK)
 
-You can use the [editor on GitHub](https://github.com/Vad1mChK/vad1mchk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is where I publish the documentation for my projects in Kotlin (KDoc & Dokka), Java (JavaDoc) etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There will be *more* to this website soon.
 
-### Markdown
+## *Do*'s and *don't*s while contacting me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Please do
 
-```markdown
-Syntax highlighted code block
+- Be family-friendly.
+- Be willing to help or ask a relevant question.
+- Give me new ideas for IT projects if you want to.
 
-# Header 1
-## Header 2
-### Header 3
+### Please don't
 
-- Bulleted
-- List
+- Write to me in any natural language other than English, Russian, or Chinese.
+- Use swear words in communication.
+- Send sexually explicit or gruesome content.
+- Impose LGBTQ+ rights on me. Not that I have a problem with it, I'm just not into that.
+- Impose political ideas on me.
+- Violate other community guidelines of GitHub or laws of your country.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vad1mChK/vad1mchk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Now tht you've acknowledged my rules, you may proceed and browse my website as you please.
